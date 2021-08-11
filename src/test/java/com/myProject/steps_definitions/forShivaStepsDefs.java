@@ -8,7 +8,7 @@ public class forShivaStepsDefs {
     public void bla() {
     }
 
-    @When("blabla")
+    @When("bla")
     public void blabla() {
     }
 }
