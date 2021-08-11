@@ -1,5 +1,5 @@
 Feature: Shiva
   Scenario: lala
     Given bla
-    When bla
+    When blabla
     Then bla
