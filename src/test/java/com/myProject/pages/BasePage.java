@@ -1,6 +1,7 @@
 package com.myProject.pages;
 
 import com.myProject.utilities.BrowserUtils;
+import com.myProject.utilities.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;

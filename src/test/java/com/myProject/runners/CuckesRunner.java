@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
                 // "html:target/default-html-features" ->to get report.It override itself. No need if we use json
         },
         features = "src/test/resources/features",
-        glue = "com/vytrack/step_definitions",
+        glue = "com/myProject/steps_definitions",
         dryRun = false,
         tags = "@wip"
 )
